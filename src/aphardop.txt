@@ -1,0 +1,15 @@
+faq need factual data
+use the word considered
+in blogs with bulleted intro - use difficulty rating info
+remove link from "th most challenging" to "hardest ap classes"
+add data between both the trend graphs
+make bolding more relevant, instead of just percentage data
+add more info in the resources h2 for wiingy and change position to 3rd
+remove cta from conclusion, redundant.
+
+
+
+
+sql
+vb
+appdev  
